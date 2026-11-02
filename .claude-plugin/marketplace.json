@@ -1,0 +1,12 @@
+{
+  "name": "mod-switch",
+  "owner": { "name": "Kadir Mert Okumus", "url": "https://github.com/nevermemo" },
+  "metadata": { "description": "Mod Switch: arrange, mute and switch the Claude Code mods that share the band above the prompt." },
+  "plugins": [
+    {
+      "name": "mod-switch",
+      "source": "./",
+      "description": "Choose which mods draw in the band above the prompt and in what order, live; mute them all; switch any mod on or off."
+    }
+  ]
+}

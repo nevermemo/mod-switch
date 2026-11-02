@@ -1,0 +1,12 @@
+{
+  "name": "mod-switch",
+  "version": "0.1.0",
+  "description": "Choose which mods draw in the band above the prompt and in what order, live, mute them all at once, and switch any installed mod on or off. /mod-switch opens the pane.",
+  "author": {
+    "name": "Kadir Mert Okumus",
+    "url": "https://github.com/nevermemo"
+  },
+  "license": "Apache-2.0",
+  "keywords": ["mod", "band", "above-prompt", "plugins", "claude-code"],
+  "types": "./types/index.d.ts"
+}
